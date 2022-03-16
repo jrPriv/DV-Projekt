@@ -196,7 +196,7 @@ public class GUI extends JPanel {
 	
 	
 	public static void main(String[] args) {
-		Rahmen.inFrame("Mährobi", new GUI(), 1200, 1800);
+		Rahmen.inFrame("Maehrobi", new GUI(), 1200, 1800);
 	}
 
 }
