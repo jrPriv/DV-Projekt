@@ -6,8 +6,6 @@ import java.awt.Graphics2D;
 import java.awt.Point;
 import java.awt.Polygon;
 
-import javax.swing.JSlider;
-
 public class Robi extends Thread {
 
 	double richtung;
